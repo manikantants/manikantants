@@ -1,6 +1,6 @@
 - Hi, I’m @manikantants
 - I’m interested in collaboration, problem solving, trouble shooting, design scalable solutions etc 
-- I’m currently learning Git hub, CI/CD etc
+- I’m currently learning distributed programming (MIT 6.824: Distributed Systems)
 - Email manikantants@gmail.com
 
 <!---
